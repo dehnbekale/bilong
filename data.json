@@ -1,0 +1,29 @@
+{ 
+    "bilong":[
+        {
+            
+
+            
+            "name":"string",
+            "first_name":"string",
+            "email":"string",
+            "phone_number":"string",
+            "city":"string",
+            "birthday":"string",
+            "bio":"string",
+            "job":"string"
+
+        },
+        {
+            
+            "name":"BEKALE",
+            "first_name":"Randy",
+            "email":"bekale@gmail.com",
+            "phone_number":"075522",
+            "city":"Dijon",
+            "birthday":"21-03-1989",
+            "bio":"Voici ma bio",
+            "job":"DevOps Engineer"
+        }
+    ]
+} 

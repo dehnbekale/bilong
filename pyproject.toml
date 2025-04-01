@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.poetry]
+version = "0.1.0"
+description = ""
+authors = ["Randy BEKALE <randy.bekale@orness.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.28.0"
+flask = "^3.1.0"
+
+# [project.urls]
+# homepage = ""
+# repository = ""
+
+[project]
+name = "Bilongs"

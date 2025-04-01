@@ -1,2 +1,9 @@
 pyjson
 setuptools
+Flask
+fastapi[standard]
+uvicorn[standard]
+urllib3
+six
+certifi
+python-dateutil
